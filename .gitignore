@@ -10,3 +10,5 @@ wheels/
 .venv
 .python-version
 .env
+chroma_db/
+faiss_index/
